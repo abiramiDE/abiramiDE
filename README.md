@@ -1,13 +1,11 @@
-## Hi there 👋
+## Hi,I'm Abirami Sivakumar 👋
 
-<h1 align="center">Hi, I'm Your Abirami Sivakumar 👋</h1>
+<h1>Data Engineer| Chennai,India </h1>
 
-<h3 align="center">Data Engineer | Azure | Databricks | PySpark</h3>
-
-<p align="center">
-  Building reliable data pipelines and scalable analytics platforms.
+<p>
+I'm building practical data engineering solutions using <Strong>SQL, Python, PySpark, Azure, and Databricks.</Strong>
+My focus is on developing reliable ETL/ELT pipelines, transforming raw data into analytics-ready datasets, and learning modern cloud data architectures.
 </p>
-
 ---
 
 ## 🛠️ Technical Skills
@@ -20,13 +18,15 @@
 
 ---
 ## 🎯 Current Goals
+🔄 End-to-End Data Pipelines: Building scalable ingestion-to-analytics pipelines with incremental loads, schema validation, and idempotent writes.
 
-- Build end-to-end data engineering projects
-- Improve advanced SQL and PySpark skills
-- Learn more about Apache Spark internals
-- Develop production-ready ETL pipelines
-- Explore Microsoft Fabric and modern data platforms
+🐍 Core Data Engineering: Strengthening my expertise in Advanced SQL, Python, and PySpark for distributed processing, data transformations, and dimensional modeling.
 
+⚡ Apache Spark Internals: Exploring Catalyst Optimizer, Tungsten execution, Adaptive Query Execution (AQE), shuffle mechanics, and performance tuning using Spark UI.
+
+☁️ Cloud & Lakehouse Engineering: Developing hands-on projects with Azure Data Factory, ADLS Gen2, Azure Databricks, Delta Lake
+
+🛠️ Production-Ready Pipelines: Implementing data quality checks, logging, retries, error handling, and CI/CD workflows to build reliable data solutions.
 ---
 
 ## 📫 Connect With Me
@@ -35,4 +35,4 @@
 - **GitHub:** [Your GitHub](https://github.com/abiramiDE)
 - **Email:** abirami.dataengineer@gmail.com
 
-📍 Location: Chennai,India
+
