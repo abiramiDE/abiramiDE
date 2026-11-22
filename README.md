@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**abiramiDE/abiramiDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Your Abirami Sivakumar 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Data Engineer | Azure | Databricks | PySpark</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building reliable data pipelines and scalable analytics platforms.
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL, PySpark
+- **Data Engineering:** ETL/ELT, Data Modeling, Data Quality
+- **Azure:** Azure Data Factory, ADLS Gen2, Azure Databricks
+- **Big Data:** Apache Spark, Delta Lake
+- **Tools:** Git, GitHub, Power BI
+
+---
+## 🎯 Current Goals
+
+- Build end-to-end data engineering projects
+- Improve advanced SQL and PySpark skills
+- Learn more about Apache Spark internals
+- Develop production-ready ETL pipelines
+- Explore Microsoft Fabric and modern data platforms
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/abiramide/)
+- **GitHub:** [Your GitHub](https://github.com/abiramiDE)
+- **Email:** abirami.dataengineer@gmail.com
+
+📍 Location: Chennai,India
